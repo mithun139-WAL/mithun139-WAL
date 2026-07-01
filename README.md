@@ -1,100 +1,119 @@
-# Hi, I'm Mithun Chakravarthi 👋
+# Hey there, I'm Mithun Chakravarthi 👋
 
-AI Applications & Full Stack Engineer with 4+ years of experience building scalable SaaS platforms, backend systems, and AI-powered applications.
+### AI Applications & Full Stack Engineer | Building scalable SaaS + AI-powered products
 
 📍 Hyderabad, Telangana, India  
-📧 mithunchakravarthi139@gmail.com  
+📧 [mithunchakravarthi139@gmail.com](mailto:mithunchakravarthi139@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/mithunchakravarthi1398)
 
 ---
 
-## 💡 Summary
+## 🚀 About Me
 
-I specialize in building production-grade applications across backend, full stack, and AI workflows.  
-My work includes multi-tenant enterprise systems, REST API design, authentication/authorization architecture, and LLM-integrated platforms with agentic workflows.
+I’m an **AI Applications & Full Stack Engineer** with **4+ years of experience** building production-grade applications across backend systems, full stack platforms, and AI-integrated workflows.
+
+I work on:
+- Multi-tenant SaaS platforms
+- Scalable backend architecture and REST APIs
+- Authentication and access control (JWT, OAuth2, RBAC)
+- AI/LLM-powered features, RAG pipelines, and agentic workflows
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-**Languages**  
-JavaScript, TypeScript, Python
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-**AI / LLM**  
-LangChain, Prompt Engineering, RAG, VectorDB (pgvector), Agentic Workflows, LLMOps, OpenTelemetry, Ollama, Multi-Agent Systems, Evaluation Pipelines
+### AI / LLM
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-000?style=for-the-badge)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge)
 
-**Frontend**  
-React.js, Next.js, Tailwind CSS
+### Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
 
-**Backend & Cloud**  
-Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth2, RBAC
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=json-web-tokens)
+![OAuth2](https://img.shields.io/badge/OAuth2-000?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-000?style=for-the-badge)
 
-**Databases**  
-PostgreSQL, MongoDB, pgvector, Redis
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
 
-**Developer Tools**  
-Git, GitHub, Jira, GitHub Copilot, Gemini Code Assist, Claude Code, Antigravity
+### Dev Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot)
 
 ---
 
 ## 💼 Experience
 
-### **Veltris** — Software Development Engineer  
-*Aug 2022 – Present | Hyderabad, Telangana*
+### Veltris — Software Development Engineer  
+**Aug 2022 – Present | Hyderabad, Telangana**
 
-- Scaled a multi-tenant SaaS platform supporting **110+ tenants** with improved frontend architecture and backend API efficiency.
-- Reduced backend response payload size by **30%** through API and query optimization.
-- Improved task throughput via worker-thread-based backend processing pipelines.
-- Designed secure REST APIs using **JWT + RBAC** for tenant-level access control.
-- Integrated HubSpot CRM for lead capture workflows.
-- Automated recurring backend operational workflows to improve reliability.
-- Collaborated cross-functionally in Agile sprint cycles for high-reliability releases.
-- Integrated SLNG.ai APIs for conversational/voice AI workflows.
-- Identified backend bottlenecks and proposed scalability-focused architectural improvements.
+- Scaled a multi-tenant SaaS platform to support **110+ tenants** with stable high-traffic performance.
+- Reduced backend response payload size by **30%** via API/query optimization.
+- Improved throughput with worker-thread-based backend processing pipelines.
+- Designed secure APIs with **JWT + RBAC** for tenant-level authorization.
+- Integrated HubSpot CRM and SLNG.ai APIs for lead and conversational workflows.
+- Automated recurring backend operations and proposed scalability improvements.
 
-### **West Agile Labs** — Trainee Software Development Engineer  
-*Dec 2021 – Jul 2022 | Hyderabad, Telangana*
+### West Agile Labs — Trainee Software Development Engineer  
+**Dec 2021 – Jul 2022 | Hyderabad, Telangana**
 
-- Developed backend services using Node.js and MongoDB.
-- Improved API performance and efficient data handling.
-- Integrated backend APIs with frontend systems for stable, scalable workflows.
+- Developed backend services with Node.js + MongoDB.
+- Improved API performance and integrated backend workflows with frontend systems.
 
 ---
 
-## 🚀 Projects
+## 🧠 Project Highlights
 
-### **BrainTrain — AI Interview Training Platform**
-**Stack:** Next.js, FastAPI, PostgreSQL, pgvector, Python, TypeScript, LangChain, OpenAI, Groq, NVIDIA NIM
-
-- Built an AI interview training platform with hybrid RAG architecture.
-- Implemented multi-provider LLM routing with fallback handling.
-- Combined rule-based + LLM-based evaluation for structured candidate feedback.
-- Optimized real-time voice workflows with parallel execution (LiveKit).
+### BrainTrain — AI Interview Training Platform
+**Stack:** Next.js, FastAPI, PostgreSQL, pgvector, TypeScript, Python, LangChain, OpenAI, Groq, NVIDIA NIM  
+- Built hybrid RAG-based interview coaching system.
+- Implemented multi-provider LLM routing with fallback logic.
+- Added hybrid candidate evaluation (rule-based + LLM-based).
+- Optimized real-time voice interview latency with parallel pipelines.
 - Added OpenTelemetry observability for LLM and retrieval performance.
 
-### **AI Personal Coach — AI Agentic Learning Platform**
-**Stack:** Next.js, FastAPI, PostgreSQL, TypeScript, Python, LangChain, Ollama, OpenAI APIs
+### AI Personal Coach — AI Agentic Learning Platform
+**Stack:** Next.js, FastAPI, PostgreSQL, TypeScript, Python, LangChain, Ollama, OpenAI APIs  
+- Built AI assistant for roadmap generation, task planning, and personalized guidance.
+- Implemented orchestration pipelines from goals → daily action plans.
+- Designed backend to support future multi-agent and memory-driven expansion.
 
-- Built an AI assistant for roadmap generation, task planning, and productivity coaching.
-- Implemented conversational AI with local and cloud LLM providers.
-- Developed orchestration workflows from goals → structured daily action plans.
-- Designed scalable backend for future multi-agent and memory-driven expansion.
+### AFP-MemorialGo — Multi-Platform Service Marketplace
+**Stack:** React, Node.js, PostgreSQL, Sequelize, TypeScript, Stripe  
+- Built multi-role marketplace with booking, checkout, payments, and order management.
+- Developed role-specific dashboards for admin, provider, planner, and users.
 
-### **AFP-MemorialGo — Multi-Platform Service Marketplace**
-**Stack:** React, Node.js, PostgreSQL, Sequelize, TypeScript, Stripe
+### AFP-CRM (SaaS)
+**Stack:** React.js, Node.js, PostgreSQL, TypeScript, Keycloak, WSO2 APIM  
+- Built backend architecture for **100+ tenants** with secure, isolated data handling.
+- Optimized backend performance and integrated third-party gateway services.
 
-- Built a multi-role marketplace for users, admins, providers, and planners.
-- Implemented booking, checkout, Stripe payments, and order lifecycle features.
-- Developed role-specific dashboards and operational admin tooling.
-- Designed scalable architecture for real-time, multi-role workflows.
+---
 
-### **AFP-CRM (SaaS)**
-**Stack:** React.js, Node.js, PostgreSQL, TypeScript, Keycloak, WSO2 APIM
+## 🎯 Currently Focused On
 
-- Designed backend architecture for **100+ tenants** with secure data handling.
-- Optimized backend services and queries to improve performance.
-- Integrated third-party services and API gateways.
-- Implemented OAuth/RBAC-based authentication and authorization.
+- Building reliable AI workflows with robust fallback and evaluation pipelines
+- Optimizing backend systems for multi-tenant scale
+- Designing production-ready agentic systems and developer tooling integrations
 
 ---
 
@@ -103,14 +122,20 @@ Git, GitHub, Jira, GitHub Copilot, Gemini Code Assist, Claude Code, Antigravity
 **Rajiv Gandhi University of Knowledge Technologies**  
 Bachelor of Technology in Computer Science & Engineering  
 **CGPA:** 8.33 / 10.00  
-*Graduated: May 2022*  
+**Graduated:** May 2022  
 Ongole, Andhra Pradesh
 
 ---
 
 ## 🤝 Let’s Connect
 
-I’m open to collaborating on backend engineering, AI applications, and full stack product development.
+I’m open to collaborating on **AI applications, backend engineering, and full stack product development**.
 
-- 📧 mithunchakravarthi139@gmail.com
+- 📧 [mithunchakravarthi139@gmail.com](mailto:mithunchakravarthi139@gmail.com)
 - 🔗 [linkedin.com/in/mithunchakravarthi1398](https://linkedin.com/in/mithunchakravarthi1398)
+
+---
+
+<!-- Optional GitHub Stats (enable if you want) -->
+<!-- ![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithun139-WAL&show_icons=true&theme=transparent) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithun139-WAL&layout=compact&theme=transparent) -->
